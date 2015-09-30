@@ -1,0 +1,31 @@
+/*
+Project Name: Relaxr
+Client: Bensen
+Author: Kristen
+Developer @GA in NYC
+*/
+
+
+/******************************************
+/* SETUP
+/*******************************************/
+#container {
+  background: url(../images/header_bg.jpg) no-repeat center top rgb(134,141,157);
+  background-size: cover;
+  height: 400px;
+}
+#benefit {
+  background-color: #f0efef;
+}
+#testimony {
+  background: url(../images/testimonial_bg.jpg) no-repeat center top rgb(134,141,157);
+  background-size: cover;
+  height: 200px;
+  color: white;
+  text-align: center;
+  vertical-align: middle;
+}
+#signup_banner {
+  background-color: #f9e42e;
+  text-align: center;
+}
